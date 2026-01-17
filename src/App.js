@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Flowers from './Components/FlowersAndHearts';
 function App() {
